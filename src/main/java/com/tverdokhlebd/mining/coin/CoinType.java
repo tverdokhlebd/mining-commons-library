@@ -8,9 +8,12 @@ package com.tverdokhlebd.mining.coin;
  */
 public enum CoinType {
 
+    BCH,
     BTC,
-    ETH,
+    DASH,
     ETC,
+    ETH,
+    LTC,
     XMR,
     ZEC
 
