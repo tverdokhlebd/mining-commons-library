@@ -1,6 +1,6 @@
-package com.tverdokhlebd.mining.http;
+package com.tverdokhlebd.mining.commons.http;
 
-import static com.tverdokhlebd.mining.http.ErrorCode.HTTP_ERROR;
+import static com.tverdokhlebd.mining.commons.http.ErrorCode.HTTP_ERROR;
 
 import java.io.IOException;
 

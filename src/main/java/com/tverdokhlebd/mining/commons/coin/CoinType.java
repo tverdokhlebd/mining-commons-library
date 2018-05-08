@@ -1,4 +1,4 @@
-package com.tverdokhlebd.mining.coin;
+package com.tverdokhlebd.mining.commons.coin;
 
 /**
  * Enumerations of coin types.

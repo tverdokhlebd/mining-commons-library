@@ -1,4 +1,4 @@
-package com.tverdokhlebd.mining.utils;
+package com.tverdokhlebd.mining.commons.utils;
 
 import static okhttp3.Protocol.HTTP_2;
 

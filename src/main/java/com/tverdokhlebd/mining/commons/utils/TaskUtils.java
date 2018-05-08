@@ -1,4 +1,4 @@
-package com.tverdokhlebd.mining.utils;
+package com.tverdokhlebd.mining.commons.utils;
 
 import java.util.Timer;
 import java.util.TimerTask;

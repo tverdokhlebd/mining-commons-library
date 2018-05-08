@@ -1,4 +1,4 @@
-package com.tverdokhlebd.mining.http;
+package com.tverdokhlebd.mining.commons.http;
 
 import okhttp3.OkHttpClient;
 

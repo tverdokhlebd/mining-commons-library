@@ -1,4 +1,4 @@
-package com.tverdokhlebd.mining.utils;
+package com.tverdokhlebd.mining.commons.utils;
 
 import static java.math.RoundingMode.DOWN;
 

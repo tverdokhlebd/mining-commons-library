@@ -1,4 +1,4 @@
-package com.tverdokhlebd.mining.http;
+package com.tverdokhlebd.mining.commons.http;
 
 /**
  * Enumerations of error codes.
